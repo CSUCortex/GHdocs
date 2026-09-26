@@ -7,7 +7,7 @@ info:
       alias: cortex
       repository: CSUCortex/GHdocs
   x-cortex-tag: ghdocs
-  x-cortex-type: domain
+  x-cortex-type: service
   x-cortex-owners:
   - type: EMAIL
     email: cx-interview-sandbox-3@proton.me
