@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: GHDocs
+  description: GitHub Docs
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: CSUCortex/GHdocs
+  x-cortex-tag: ghdocs
+  x-cortex-type: domain
+  x-cortex-owners:
+  - type: EMAIL
+    email: cx-interview-sandbox-3@proton.me
+    description: ""
+    inheritance: APPEND
